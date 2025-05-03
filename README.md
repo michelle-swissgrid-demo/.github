@@ -1,4 +1,4 @@
-# .github
+# Community Health Files
 ## Health Files
 > Research: Explore what these health files are and create a list of recommended documentation files essential for every GitHub repository and specify what content each of this document should include.
 
