@@ -1,4 +1,4 @@
-# Contributing to [Your Org/Repo Name]
+# Contributing to [michelle-swissgrid-demo/.github]
 
 Thanks for considering contributing! Here's how to help:
 
